@@ -58,9 +58,9 @@ Currently exploring:
 
 ## Featured Projects
 
-### Global Degrees CRM
+### Global Degrees CRM - Summer Internship 2026
 **React 19 • Express.js • Supabase • JavaScript • Vercel**
-
+**Summer Internship June 2026 - July 2026**
 A production-style CRM platform built for study-abroad consultancies, consolidating student lifecycle management, counselor workflows, analytics, and AI-assisted decision support into a unified dashboard.
 
 **Highlights**
@@ -94,7 +94,7 @@ A role-based sponsorship management platform developed for college fest operatio
 
 ---
 
-### RideAlly CMS
+### RideAlly CMS -  Summer Training 2026
 **Core PHP • MVC Architecture • MySQL • Bootstrap 5 • InfinityFree**
 
 A production-style Content Management System built completely from scratch using Core PHP and the MVC architectural pattern with custom routing, authentication, and role-based authorization.
